@@ -42,24 +42,9 @@ Už všetko funguje, dátumy GDPR súhlasou sú nastavené, kontrolujem cez filt
 
 ---
 
-## 🔐 Poznámka
-Dáta sú interné a anonymizované z dôvodu GDPR.  
-Repozitár obsahuje len ilustračné obrázky a postupy bez citlivých údajov.
-
----
-
 ### 🗂️ Created by
-
 **Denisa Pitnerová**  
 Data quality check, GDPR compliance, CRM data migration  
 📍 DRILL Management spol. s r.o.  
 📅 August 2025  
 🔒 The data is internal, so only illustrative screenshots are shown here – no sensitive or personal information is included.
-
-
-**Denisa Pitnerová**  
-Kontrola kvality dat, GDPR, migrace CRM údajů  
-📍 DRILL Management spol. s r.o.  
-📅 Srpen 2025  
-🔒 Data jsou interní, proto jsou zde použity pouze ilustrativní screenshoty bez citlivých údajů.
-   Úprava README so screenshottmi
