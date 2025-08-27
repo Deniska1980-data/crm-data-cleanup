@@ -13,25 +13,32 @@ Preverenie správnosti dátumov, manuálna validácia a úprava údajov podľa G
 
 ## 📸 Ukážky mojej práce
 
-### ✅ Zadanie od Ivety
-Screenshot of the assignment I received related to GDPR and CRM.
-![zadanie](zadanie_od_ivety.jpg)
+### 📩 Zadanie od Ivety
+![Zadanie od Ivety](zadanie_od_ivety.JPG)
+
+Tento e-mail predstavuje konkrétne zadanie na kontrolu súhlasu kandidátov so spracovaním údajov v CRM.
 
 ### 🧠 Pracujem na migrácii dát
-Practical example of my work during the CRM data migration process.
-![migracia](pracuji_na_migraci_dat.jpg)
+![Migrácia dát](pracuji_na_migraci_dat.JPG)
+
+Moja úloha: Validácia a úprava dát kandidátov v CRM podľa požiadaviek GDPR, vrátane migrácie a čistenia dát v Power Query.
 
 ### 🔧 Validácia dátumov v Power Query
-Demonstration of how dates were validated and cleaned.
-![validacia](validuji_datumy_pq.jpg)
+![Validácia dátumov v Power Query](validuji_datumy_pq.JPG)
+
+Mojou úlohou bolo upravit správnosť dátumov a opravit ich tvar.
 
 ### 📊 Úprava dátumov v Power Query
 Illustration of adjusting date formats before migration.
-![datumy](power_query_uprava_datumov.jpg)
+![Úprava dátumov v Power Query](power_query_uprava_datumov.jpg)
+
+Oprava údajov, dátumov v plnom prúde ;)
 
 ### 🧹 Kontrola údajov cez filtre v Exceli
 Screenshot showing how GDPR consent was checked via CRM filters.
-![kontrola](kontrola_pres_filtre.jpg)
+![GDPR kontrola cez filtre](kontrola_pres_filtre.jpg)
+
+Už všetko funguje, dátumy GDPR súhlasou sú nastavené, kontrolujem cez filtre :)
 
 ---
 
